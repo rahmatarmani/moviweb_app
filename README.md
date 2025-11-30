@@ -1,7 +1,7 @@
 # 🎬 moviweb_app  
 
 **A simple movie-web application** to browse and search movies (built with Python + Flask + SQLite).  
-![Uploading image.png…]()
+
 
 
 
